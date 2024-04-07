@@ -1,0 +1,42 @@
+.header nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    background-color: #4a90e2; /* Синий цвет фона */
+  }
+  
+  .logo h1 {
+    font-size: 24px;
+    color: #ffffff; /* Белый цвет текста */
+  }
+  
+  .nav-links li {
+    display: inline;
+    margin-left: 20px;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: #ffffff; /* Белый цвет ссылок */
+  }
+  
+  .search-bar {
+    display: flex;
+  }
+  
+  .search-bar input {
+    border: none;
+    padding: 8px;
+    border-radius: 20px;
+    outline: none;
+    background-color: #eef1f6; /* Светло-серый фон поля поиска */
+    color: #333; /* Темно-серый цвет текста */
+  }
+  
+  .search-bar button {
+    border: none;
+    background: none;
+    cursor: pointer;
+    color: #ffffff; /* Белый цвет иконки поиска */
+  }
