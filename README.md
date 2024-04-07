@@ -18,7 +18,7 @@ Backend: Django
 Team members:
 Orazbai Dariga
 Amanzhol Zhanel
-Merey
+Merey Kemelbay
 
 Installation and Setup
 
